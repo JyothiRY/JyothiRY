@@ -55,7 +55,7 @@ Nagarjuna College of Engineering and Technology, India
 
 - 📧 Email: [jyothiyakkanti24@gmail.com](mailto:jyothiyakkanti24@gmail.com)  
 - 💼 LinkedIn: [jyothiramesh-yakkanti](https://www.linkedin.com/in/jyothiramesh-yakkanti)  
-- 💻 GitHub: [@Jyothiyakkanti](https://github.com/Jyothiyakkanti)
+- 💻 GitHub: [@Jyothiyakkanti](https://github.com/JyothiRY)
 
 ---
 
