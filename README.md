@@ -1,62 +1,81 @@
-# 👋 Hi, I'm Jyothi Ramesh Yakkanti
+<h1 align="center">Hi, I'm Jyothi Ramesh Yakkanti ✨</h1>
 
-Welcome to my GitHub profile! I'm a passionate **Information Science and Engineering** student at **Nagarjuna College of Engineering and Technology**, with a CGPA of **7.70/10**. I'm deeply interested in **Full Stack Development**, **Machine Learning**, and **Cybersecurity**, and love building impactful tech projects that solve real-world problems.
-
----
-
-## 💻 Tech Stack
-
-- **Languages**: Java, C, Python, SQL, JavaScript  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Java (Spring Boot)  
-- **Database**: MySQL  
-- **Developer Tools**: Git, VS Code, Eclipse  
-- **Soft Skills**: Leadership, Communication, Time Management, Presentation
+<p align="center">
+🎓 Information Science and Engineering Student at Nagarjuna College of Engineering and Technology  
+</p>
 
 ---
 
-## 🚀 Projects
+## 👩‍💻 About Me
 
-### 🎮 Number Guessing Game using GUI  
-A fun game built using Python and Tkinter with a simple and intuitive graphical interface.
-
-### 🗳️ Enhanced Electoral Voting System with MFA  
-A secure voting platform using Python with OTP-based Multi-Factor Authentication for voter verification.
-
-### ❤️ Heart Disease Prediction using Logistic Regression  
-Predicts the probability of heart disease using healthcare datasets and logistic regression to support preventive care.
+- 🎓 Currently pursuing my Bachelor’s degree in Information Science and Engineering.  
+- 🚀 Actively looking for exciting opportunities to kickstart my tech career.  
+- 🌱 Fast learner, problem solver, and always eager to explore new tech.  
+- 💡 Passionate about building solutions that make a difference!
 
 ---
 
-## 📜 Certifications
+## 🌐 Connect with Me
 
-- [✅ NPTEL Programming in Java](https://nptel.ac.in/)  
-- [🌐 Geo-Data Sharing and Cybersecurity – ISRO](https://www.iirs.gov.in/)  
-- [📊 Data Analytics & Visualization Job Simulation – Accenture](https://www.theforage.com/)
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology – Information Science and Engineering**  
-Nagarjuna College of Engineering and Technology, India  
-**CGPA**: 7.70 / 10
+<p align="left">
+  <a href="mailto:jyothiyakkanti24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jyothiramesh-yakkanti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/JyothiRY" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🎯 Extracurricular Highlights
+## 🛠 Tech Stack
 
-- 🧠 Mentored juniors on health and personal well-being as part of the **Care Wing** initiative.
-- 🎤 Core member of the college fest team – organized and managed campus-wide tech and cultural events.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 📧 Email: [jyothiyakkanti24@gmail.com](mailto:jyothiyakkanti24@gmail.com)  
-- 💼 LinkedIn: [jyothiramesh-yakkanti](https://www.linkedin.com/in/jyothiramesh-yakkanti)  
-- 💻 GitHub: [@Jyothiyakkanti](https://github.com/JyothiRY)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JyothiRY&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JyothiRY&theme=radical" alt="Streak Stats" width="47%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyothiRY&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! I’m always open to collaborating on exciting tech projects and learning opportunities.*  
+## 📂 Notable Projects
+
+- 🎮 **Number Guessing Game using GUI**  
+  Python + Tkinter-based number guessing game with a simple user interface.
+
+- 🗳️ **Enhanced Electoral Voting System with MFA**  
+  Built with Python, implements OTP-based multi-factor authentication for secure digital voting.
+
+- ❤️ **Heart Disease Prediction**  
+  A machine learning model using logistic regression to improve healthcare decision-making.
+
+---
+
+## 🏅 Certifications
+
+- ✅ [NPTEL Programming in Java](https://nptel.ac.in/)
+- 🌐 [Geo-Data Sharing and Cybersecurity - ISRO](https://www.iirs.gov.in/)
+- 📊 [Data Analytics & Visualization Job Simulation - Accenture](https://www.theforage.com/)
+
+---
+
+## 🎉 Fun Fact
+
+> I love exploring innovative ways to blend technology and creativity.  
+> ✨ *Let’s build something amazing together!*
+
